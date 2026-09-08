@@ -1,16 +1,17 @@
-## Hi there 👋
+Josué Teixeira Junior
+Venho de TI e infraestrutura — suporte, análise, o lado operacional — e estou migrando para desenvolvimento. Faço parte da equipe de tecnologia da Igreja no Cinema, responsável por um ecossistema de três aplicações integradas:
 
-<!--
-**techjrprofissional/techjrprofissional** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+API — GraphQL em Node.js com MongoDB, onde vivem as regras de negócio
+Back-office — SPA em React usada por administradores e líderes
+App — React Native, para voluntários e visitantes
+O trabalho é em Git Flow: uma branch por história, revisão por pares antes do merge e deploy automatizado a partir da branch principal.
 
-Here are some ideas to get you started:
+Em que estou trabalhando
+Manutenção e evolução dessas aplicações — remoção de código legado, ajustes de schema GraphQL, migração de dados no MongoDB e correções no front-end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Stack
+JavaScript · Node.js · GraphQL · MongoDB · React · React Native · Git
+
+Contato
+LinkedIn · techjr.profissional@gmail.com
+Whats app - 41995055282
